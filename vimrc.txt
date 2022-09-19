@@ -1,0 +1,15 @@
+" Highlight search results
+set hlsearch
+
+" Text color
+syntax on
+colorscheme default
+
+" Show line number
+"set nu
+
+" Show file stats
+set ruler
+
+" Fix backspace not working in insert mode
+set backspace=indent,eol,start
